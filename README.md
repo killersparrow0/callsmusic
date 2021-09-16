@@ -5,7 +5,7 @@
 - FFmpeg
 - Python 3.7+
 
-## 🚀 Deployment
+## 🚀 Deployment
 
 ### 🛠 Configuration
 
